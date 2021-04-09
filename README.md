@@ -2,6 +2,7 @@
 ## MyActions使用教程
 
 ### 一丶Github Action 使用教程
+
 1. [按照这个教程进行 reposync](backup/reposync.md)
 2. 再在`Settings`-`Secrets`里面添加`JD_COOKIE`
 3. 多条 cookie 用`&`隔开，支持无数条 cookie
